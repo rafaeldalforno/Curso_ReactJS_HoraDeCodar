@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": "7"
+    },
+    {
+      "id": "4247",
+      "name": "test",
+      "price": "100"
+    },
+    {
+      "id": "f4d4",
+      "name": "testando carregamento",
+      "price": "20"
+    },
+    {
+      "id": "2df7",
+      "name": "Avell A70",
+      "price": "8000"
+    },
+    {
+      "id": "71f3",
+      "name": "Refatorando o POST",
+      "price": "50"
+    },
+    {
+      "id": "b6a8",
+      "name": "loading",
+      "price": "25"
+    }
+  ]
+}
